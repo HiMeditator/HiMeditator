@@ -31,6 +31,7 @@ My professional interests include front-end development, software development, a
     <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat"></a>
     <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=fff&style=flat"></a>
     <a href="https://v2.tauri.app/"><img src="https://img.shields.io/badge/Tauri-24C8D8?logo=tauri&logoColor=fff&style=flat"></a>
+    <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff&style=flat"></a>
     <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat"></a>
 </div>
 
@@ -46,7 +47,6 @@ My professional interests include front-end development, software development, a
 <div>
     <a href="mailto:hironin@foxmail.com"><img src="https://img.shields.io/badge/email-hironin@foxmail.com-red"></a>
     <a href="https://himeditator.github.io"><img src="https://img.shields.io/badge/himeditator.github.io-181717?logo=github&logoColor=fff&style=flat"></a>
-    <a href="https://www.instagram.com/chenjyanai/"><img src="https://img.shields.io/badge/instgram-FF0069?logo=instagram&logoColor=fff&style=flat"></a>
     <a href="https://space.bilibili.com/629971797"><img src="https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili&logoColor=fff&style=flat"></a>
     <a href="https://blog.csdn.net/Hi_KER"><img src="https://img.shields.io/badge/CSDN-FC5531?logo=csdn&logoColor=fff&style=flat"></a>
 </div>
