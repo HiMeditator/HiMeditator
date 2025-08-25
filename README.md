@@ -1,10 +1,10 @@
 ## Hi there 👋
 
+<img align="right" src="./assets/meme.png" height="300px" alt="Just A Meme">
+
 I am Chen Janai, currently a graduate student majoring in Software Engineering. I enjoy watching movies🎬, anime🌸, and trading stocks📈 in my spare time.
 
 My professional interests include front-end development, software development, and large model application development.
-
-<img align="right" src="./assets/meme.png" height="240px" alt="Just A Meme">
 
 ### Technical Stack
 
