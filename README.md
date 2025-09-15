@@ -16,7 +16,7 @@ My professional interests include software development (especially front-end dev
     <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=fff&style=flat"></a>
     <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=fff&style=flat"></a>
     <a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=fff&style=flat"></a>
-    <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat"></a>
+    <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat"></a>
     <a href="https://vite.dev/"><img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat"></a>
     <a href="https://pnpm.io/"><img src="https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff&style=flat"></a>
     <a href="https://www.electronjs.org/"><img src="https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=fff&style=flat"></a>
@@ -28,7 +28,7 @@ My professional interests include software development (especially front-end dev
 ### Planning
 
 <div>
-    <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=flat"></a>
+    <a href="https://https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=flat"></a>
     <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=fff&style=flat"></a>
     <a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/React_Native-087ea4?logo=react&logoColor=fff&style=flat"></a>
     <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat"></a>
