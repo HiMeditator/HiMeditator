@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-<img align="right" src="./assets/meme.png" height="300px" alt="Just A Meme">
+<img align="right" src="./assets/redwoods.png" height="300px" alt="Just A Meme">
 
-I am Chen Janai, currently a graduate student majoring in Software Engineering. I enjoy watching movies🎬, anime🌸, and trading stocks📈 in my spare time.
+I am Chen Janai, currently a graduate student majoring in Software Engineering. I enjoy watching anime🌸, trading stocks📈 and developing indie games🎮 in my spare time.
 
 My professional interests include software development (especially front-end development) and LLM application development.
 
@@ -16,32 +16,27 @@ My professional interests include software development (especially front-end dev
     <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=fff&style=flat"></a>
     <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=fff&style=flat"></a>
     <a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=fff&style=flat"></a>
-    <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat"></a>
     <a href="https://vite.dev/"><img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat"></a>
     <a href="https://pnpm.io/"><img src="https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff&style=flat"></a>
     <a href="https://www.electronjs.org/"><img src="https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=fff&style=flat"></a>
     <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-5FA04E?logo=node.js&logoColor=fff&style=flat"></a>
     <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat"></a>
     <a href="https://cplusplus.com/"><img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=fff&style=flat"></a>
+    <a href="https://godotengine.org/"><img src="https://img.shields.io/badge/GodotEngine-478CBF?logo=godotengine&logoColor=fff&style=flat"></a>
 </div>
 
 ### Planning
 
 <div>
-    <a href="https://https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=flat"></a>
-    <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=fff&style=flat"></a>
-    <a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/React_Native-087ea4?logo=react&logoColor=fff&style=flat"></a>
+    <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=flat"></a>
     <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat"></a>
-    <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=fff&style=flat"></a>
-    <a href="https://v2.tauri.app/"><img src="https://img.shields.io/badge/Tauri-24C8D8?logo=tauri&logoColor=fff&style=flat"></a>
-    <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff&style=flat"></a>
-    <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=fff&style=flat"></a>
+    <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat"></a>
+    <a href="https://www.aseprite.org/"><img src="https://img.shields.io/badge/Aseprite-7D929E?logo=aseprite&logoColor=fff&style=flat"></a>
 </div>
 
 ### GitHub Stats
 
 <div>
-    <img height="160px" src="https://github-readme-stats.vercel.app/api?username=HiMeditator&show_icons=true&theme=gruvbox" />
     <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiMeditator&layout=compact&theme=gruvbox" />
 </div>
 
