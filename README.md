@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img align="right" src="./assets/redwoods.png" height="300px" alt="Just A Meme">
+<img align="right" src="./assets/redwoods.png" height="300px" alt="RedWoods Logo" >
 
 I am Chen Janai, currently a graduate student majoring in Software Engineering. I enjoy watching anime🌸, trading stocks📈 and developing indie games🎮 in my spare time.
 
