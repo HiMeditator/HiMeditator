@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-<img align="right" src="./assets/redwoods.png" height="300px" alt="RedWoods Logo" >
+<img align="right" src="./assets/redwoods.png" height="240px" alt="RedWoods Logo" >
 
-I am Chen Janai, currently a graduate student majoring in Software Engineering. I enjoy watching anime🌸, trading stocks📈 and developing indie games🎮 in my spare time.
+I am Chen Janai, currently a graduate student majoring in Software Engineering. I enjoy watching anime🌸, trading stocks📈 and learning to develop indie games🎮 in my spare time.
 
 My professional interests include software development (especially front-end development) and LLM application development.
 
@@ -37,7 +37,9 @@ My professional interests include software development (especially front-end dev
 ### GitHub Stats
 
 <div>
-    <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiMeditator&layout=compact&theme=gruvbox" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=himeditator&theme=radical" width="30%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=himeditator&theme=radical" width="30%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=himeditator&theme=radical" width="30%" />
 </div>
 
 ### Links
