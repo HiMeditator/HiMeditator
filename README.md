@@ -1,12 +1,15 @@
 ## Hi there 👋
 
-<img align="right" src="./assets/redwoods.png" height="240px" alt="RedWoods Logo" >
+<img align="right" src="./assets/redwoods.png" width="330px" alt="RedWoods Logo" >
 
-I am Chen Janai, currently a graduate student majoring in Software Engineering. I enjoy watching anime🌸, trading stocks📈 and learning to develop indie games🎮 in my spare time.
+I am Chen, currently a graduate student majoring in Software Engineering. I enjoy watching movies🎬 and trading stocks📈 in my spare time.
 
-My professional interests include software development (especially front-end development) and LLM application development.
+At present, I am primarily engaged in software development (including plugins, front-end interfaces and desktop applications), with specific focuses on real-time captions, developer behavior data analysis and LLM applications.
+
+Meanwhile, I am also pursuing studies in data science, deep learning and LLM.
 
 ### Technical Stack
+
 
 <div>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=fff&style=flat"></a>
@@ -20,26 +23,18 @@ My professional interests include software development (especially front-end dev
     <a href="https://pnpm.io/"><img src="https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff&style=flat"></a>
     <a href="https://www.electronjs.org/"><img src="https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=fff&style=flat"></a>
     <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-5FA04E?logo=node.js&logoColor=fff&style=flat"></a>
+    <img src="https://img.shields.io/badge/|-ffffff">
     <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat"></a>
-    <a href="https://cplusplus.com/"><img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=fff&style=flat"></a>
-    <a href="https://godotengine.org/"><img src="https://img.shields.io/badge/GodotEngine-478CBF?logo=godotengine&logoColor=fff&style=flat"></a>
+    <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=flat"></a>
+    <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/sklearn-F7931E?logo=scikitlearn&logoColor=fff&style=flat"></a>
 </div>
 
 ### Planning
 
 <div>
     <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=flat"></a>
-    <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat"></a>
-    <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat"></a>
-    <a href="https://www.aseprite.org/"><img src="https://img.shields.io/badge/Aseprite-7D929E?logo=aseprite&logoColor=fff&style=flat"></a>
-</div>
-
-### GitHub Stats
-
-<div>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=himeditator&theme=radical" width="30%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=himeditator&theme=radical" width="30%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=himeditator&theme=radical" width="30%" />
+    <a href="https://www.langchain.com/"><img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=fff&style=flat"></a>
+    <a href="https://www.langchain.com/langgraph"><img src="https://img.shields.io/badge/LangGraph-1C3C3C?logo=langgraph&logoColor=fff&style=flat"></a>
 </div>
 
 ### Links
